@@ -1,0 +1,48 @@
+{
+  "_from": "@haventec/sjcl512@1.0.0",
+  "_id": "@haventec/sjcl512@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-E9Ges+NZiCtAnBRM/vtCNq+9JBo=",
+  "_location": "/@haventec/sjcl512",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@haventec/sjcl512@1.0.0",
+    "name": "@haventec/sjcl512",
+    "escapedName": "@haventec%2fsjcl",
+    "scope": "@haventec",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/@haventec/cloudportal-js/@haventec/common-js",
+    "/@haventec/common-js"
+  ],
+  "_resolved": "https://registry.npmjs.org/@haventec/sjcl512/-/sjcl-1.0.0.tgz",
+  "_shasum": "13d19eb3e359882b409c144cfefb4236afbd241a",
+  "_spec": "@haventec/sjcl512@1.0.0",
+  "_where": "/Users/justincrosbie/dev/haven/cloud-portal-frontend/node_modules/@haventec/common-js",
+  "author": {
+    "name": "haventec"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Stanford Javascript Crypto Library - Haventec sha512 version",
+  "devDependencies": {
+    "eslint": "^2.11.1",
+    "jsdoc": "3.4.0"
+  },
+  "main": "sjcl.js",
+  "name": "@haventec/sjcl512",
+  "optionalDependencies": {},
+  "repository": "",
+  "scripts": {
+    "jsdoc": "jsdoc -c jsdoc.conf.json",
+    "lint": "eslint . || true",
+    "test": "make test"
+  },
+  "version": "1.0.0"
+}
