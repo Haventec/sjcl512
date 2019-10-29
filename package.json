@@ -32,7 +32,7 @@
   "deprecated": false,
   "description": "Stanford Javascript Crypto Library - Haventec sha512 version",
   "devDependencies": {
-    "eslint": "^2.11.1",
+    "eslint": "^6.6.0",
     "jsdoc": "^3.6.2"
   },
   "main": "sjcl.js",
